@@ -1,0 +1,21 @@
+.img{
+    width: 100px;
+    height: 100px;
+    }
+    
+    .div1{
+    
+        position: relative;
+        float: left;
+        border: 3px black solid;
+        width: 200px;
+        height: 300px;
+    
+         margin: 20px; 
+        text-align: center;
+    }
+    body{
+    background-color: rgb(244, 128, 190);
+    
+    
+    }
